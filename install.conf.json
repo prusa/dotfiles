@@ -1,6 +1,11 @@
 [
     {
-        "link": {}
+        "link": {
+            "~/.tmux.conf": "tmux.conf",
+            "~/.vimrc": "vimrc",
+            "~/.vim": "vim/",
+            "~/.bash_profile": "bash_profile"
+        }
     },
     {
         "shell": []
